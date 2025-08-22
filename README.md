@@ -1,2 +1,25 @@
-# AI-Powered-Recipe-Recommender
-Discover personalized recipes based on ingredients you already have! This AI-powered app suggests delicious meals tailored to your dietary restrictions and preferences. Built with Flask and machine learning capabilities, it helps reduce food waste while making meal planning effortless. Perfect for home cooks looking for inspiration! 🥗👨‍🍳
+# AI-Powered Recipe Recommender
+
+A Flask web application that suggests recipes based on ingredients you have, with dietary restrictions.
+
+## Features
+
+- Input your available ingredients
+- Select dietary restrictions (vegetarian, vegan, gluten-free, dairy-free)
+- Choose cuisine preference
+- Get personalized recipe recommendations
+- View recipe details including preparation time and dietary information
+
+## Tech Stack
+
+- Python
+- Flask
+- Spoonacular API (with mock data fallback)
+- HTML/CSS/JavaScript
+
+## Setup Instructions
+
+1. Clone the repository:
+```bash
+git clone <your-repo-url>
+cd recipe-recommender
